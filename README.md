@@ -9,8 +9,6 @@
 
 - ❓ Ask me about anything about Solidity, Subgraphs, Web3 development, Layer 2 solutions etc...  
 
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -59,10 +57,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
+</td></tr></table>
 
 ## Connect with me  
 <div align="center">
@@ -72,13 +67,4 @@
 <a href="https://linkedin.com/in/rohitsethii" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rohitsethii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>
+</div>
